@@ -1,0 +1,2 @@
+# MMAI5100_Applications_of_neural_networks
+MMAI5100_Applications-of-neural-networks 
